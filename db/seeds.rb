@@ -1,5 +1,21 @@
 puts "🌱 Seeding spices..."
-
-# Seed your database here
+PatronusAnimal.create(animal:"Badger")
+PatronusAnimal.create(animal:"Bat")
+PatronusAnimal.create(animal:"Bear") 
+PatronusAnimal.create(animal:"Cat") 
+PatronusAnimal.create(animal:"Buffalo")
+PatronusAnimal.create(animal:"Cheetah")
+PatronusAnimal.create(animal:"Crow")
+PatronusAnimal.create(animal:"Doe")
+PatronusAnimal.create(animal:"Dolphin")
+PatronusAnimal.create(animal:"Dragon")
+PatronusAnimal.create(animal:"Eagle")
+PatronusAnimal.create(animal:"Owl")
+PatronusAnimal.create(animal:"Fox")
+PatronusAnimal.create(animal:"Hare")
+PatronusAnimal.create(animal:"Otter")
+PatronusAnimal.create(animal:"Snake")
+PatronusAnimal.create(animal:"Unicorn")
+PatronusAnimal.create(animal:"Wolf")
 
 puts "✅ Done seeding!"
